@@ -1,7 +1,7 @@
 # Site settings
 
 # NB! Set your site's url, otherwise nothing will work
-url: "https://saadsheriff.github.io/saadsheriff.github.io"
+url: "https://saadsheriff.github.io"
 
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
