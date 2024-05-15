@@ -10,10 +10,10 @@ google-tracking-id: "UA-XXXXXXXX-X"
 # HTML Head #
 #############
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Saad Sharief"
+title: "saad"
+description: "Blog and website of Saad Sharief. Opinions expressed are mine."
+keywords: "sharief, saad, personal"
 favicon: "/img/favicon.ico"
 ################
 # Header layout #
